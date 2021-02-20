@@ -1,0 +1,37 @@
+@charset "utf-8";
+html
+{
+background-image: url(moto-gp-logo.png);
+}
+body
+{
+    flex: 100%;
+font-size: larger;
+margin: 0px;
+padding: 10px;
+border-style: solid;
+border-color: black;
+}
+h4
+{
+background-color: crimson;}
+img
+{
+flex: 100%;
+height: auto;
+width: auto;
+}
+article
+{
+clear: both;
+}
+nav {
+	width: 25%;
+	float: left;
+	margin: 6% 2% 0% 0%;
+}
+footer {
+	font-size: 0.9em;
+    background-color: dodgerblue;
+   display: block;
+}

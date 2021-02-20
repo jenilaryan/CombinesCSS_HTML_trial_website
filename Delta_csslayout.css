@@ -1,0 +1,16 @@
+nav
+{
+font-size: large;
+border-style: double;
+border-color: aqua;
+border-spacing: inherit;
+text-decoration-color: burlywood;
+    text-decoration:none;
+padding: 5px;
+}
+body { 
+   border-style: dashed;
+    float:left;
+    border-color: blue;
+    height: auto;
+}
